@@ -1,4 +1,7 @@
-# Adding in ansiable folder into github
+# Ansiable folder for network automation
+
+*included in the Ansiable folder is scripts to use with ansible for network automation as well as a .py script to create the ansible vars file.*
+
 
 
 ## Change Log 
