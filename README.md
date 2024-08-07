@@ -1,6 +1,6 @@
-# test
+### Welcome to the git hub responsity 
 
-This is a test file.
-This is a Test file.
-trying to get GIT to work
-made REPO Public
+1. Anbsible 
+2. Diamgrams as code
+3. Python
+4. Terrafrom 
